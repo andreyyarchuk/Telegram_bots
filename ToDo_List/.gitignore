@@ -11,3 +11,4 @@ Thumbs.db
 # Файлы базы данных
 *.sql
 *.sqlite
+*.sqlite3
