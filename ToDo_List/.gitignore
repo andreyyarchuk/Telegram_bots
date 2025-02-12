@@ -1,0 +1,13 @@
+node_modules/
+# Игнорируем файлы среды
+ToDo_List\.env
+# Игнорируем логи
+*.log
+# Игнорируем операционные системные файлы
+.DS_Store
+Thumbs.db
+# Для Visual Studio Code
+.vscode/
+# Файлы базы данных
+*.sql
+*.sqlite
